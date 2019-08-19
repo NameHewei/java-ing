@@ -75,6 +75,7 @@ CLASSPATH  配置库类文件的位置 系统变量里新建(地址为jdk安装�
 2. 使用javac命令编译 源代码文件，得到.class的字节码文件
   - 编写java文件 
   - 用javac编译: `javac FirstStep.java` ,生成同名.class文件
+  - javac -encoding UTF-8 xxx.java 处理有中文
 
 3. 解释器（不同的平台去解释字节码文件），使用java命令
   - java是解释class文件的解释器，是class的执行引擎
