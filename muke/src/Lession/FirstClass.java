@@ -1,4 +1,6 @@
-package uu;
+package Lession;
+
+
 //import java.util.Scanner;
 import java.util.Arrays;
 
@@ -15,8 +17,7 @@ import java.util.Arrays;
 //    }
 //}
 
-public class ts {
-
+public class FirstClass {
     /**
      * 方法
      */
@@ -49,7 +50,7 @@ public class ts {
         /**
          * 数组排序
          */
-//        String[] names = {"sports", "game", "movie" };
+//        String[] names = {"sporFirstClass", "game", "movie" };
 //        Arrays.sort(names);
 //        for (int i = 0; i < names.length; i++) {
 //            System.out.println("name:"+names[i]);
@@ -74,14 +75,14 @@ public class ts {
 //            }
 //        }
 
-//        ts out = new ts();
+//        FirstClass out = new FirstClass();
 //        out.pri("hello dog");
 //        double a = Math.random() * 100;
 //        System.out.println(Math.floor(a));
 
         int[] scores = { 89 , -23 , 64 , 91 , 119 , 52 , 73 };
 
-        ts getG = new ts();
+        FirstClass getG = new FirstClass();
 
         System.out.println(Arrays.toString(getG.getGood(scores)));
     }

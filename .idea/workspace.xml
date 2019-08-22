@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35b2169b-b28a-4da3-bbf4-0003ded441ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/de.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-ing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee/.idea/artifacts/jee_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee/jee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee/out/artifacts/jee_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee/out/artifacts/jee_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/muke/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/muke/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/muke/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/muke/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/muke/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/muke/FirstStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/muke/muke.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/src/ts/demo/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts/ts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/useUtil/src/uu/ts.java" beforeDir="false" afterPath="$PROJECT_DIR$/useUtil/src/uu/ts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/artifacts/web_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/packageOne/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web/index.jsp" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Pl66frv0sHCsnq0PIEtPSdHUTx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b2169b-b28a-4da3-bbf4-0003ded441ef" name="Default Changelist" comment="" />
+      <created>1566436162455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566436162455</updated>
+      <workItem from="1566436166031" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
