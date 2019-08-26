@@ -1,7 +1,7 @@
-package Lession;
+package lession;
 
 public class InitConstructor {
-    String name;
+    static String StaticName = "";
 
     /**
      * 方法名与类名相同
@@ -13,8 +13,7 @@ public class InitConstructor {
     /**
      * 有参数构造方法
      */
-    public InitConstructor(String _name) {
-        name = _name;
+    public InitConstructor(String name) {
         System.out.println("new name:" + name);
     }
 }
