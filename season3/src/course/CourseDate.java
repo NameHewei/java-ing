@@ -1,6 +1,7 @@
 package course;
 import java.text.ParseException;
 import java.util.Date;
+import java.util.Calendar;
 import java.text.SimpleDateFormat;
 
 public class CourseDate{
@@ -16,5 +17,15 @@ public class CourseDate{
         Date dsObj1 = sdf.parse(ds1);
         System.out.println(dsObj);
         System.out.println(dsObj1);
+        System.out.println("---------------------------------");
+
+
+        Calendar cal = Calendar.getInstance();
+        int mon = cal.get(Calendar.MONTH) + 1;
+        int day = cal.get(Calendar.DAY_OF_MONTH);
+        int hour = cal.get(Calendar.HOUR_OF_DAY);
+        System.out.println(cal.get(Calendar.YEAR) + "-" + mon + "-" + day + " " + hour);
+
+        System.out.println(cal.getTimeInMillis());
     }
 }
