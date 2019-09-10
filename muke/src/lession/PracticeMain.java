@@ -6,7 +6,7 @@ public class PracticeMain {
 
     /* 静态方法 */
     public static void change() {
-            
+
     }
 
     public static void main(String[] arg) {
