@@ -8,7 +8,7 @@ public class Practice {
     String message;
     int count;
 
-    void call() {
+    public void call() {
         /**
          * 局部变量要加初始值
          */
