@@ -1,15 +1,16 @@
 package collection;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+
+/**
+ * Set 在学生类中
+ */
 
 public class CourseSet {
     public List<Course> courseList;
 
     public CourseSet () {
-        courseList = new ArrayList<Course>();
+        courseList = new ArrayList<>();
     }
 
     /**
