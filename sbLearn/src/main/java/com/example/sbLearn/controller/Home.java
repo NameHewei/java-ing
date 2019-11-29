@@ -6,15 +6,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class Home {
-
-
     @RequestMapping("/hello")
     public String getIndex() {
         Res res = new Res();
+        res.setName("测试Fast-Json-1");
+        res.setAge(5656);
 
-//        return "{\"data\": \"hello java!\" }";
-        String text = JSON.toJSONString(res); //序列化
-//        VO vo = JSON.parseObject("{...}", VO.class);
-        return text;
+        return JSON.toJSONString(res);
     }
 }
